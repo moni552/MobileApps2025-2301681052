@@ -46,7 +46,7 @@ Material 3 тема с поддръжка на light/dark режим.
 ##7. Скриншотове
 ### Основен екран / dark тема
 
-(docs/images/sn1.jpg)
+![Main Screen](docs/images/sn1.jpg)
 
 ### Основен екран / light тема
 
