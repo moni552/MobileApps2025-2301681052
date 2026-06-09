@@ -47,20 +47,20 @@ Material 3 тема с поддръжка на light/dark режим.
 
 ## 7. Скриншотове
 
-<table>
+<table align="center">
 <tr>
-  <td><b>Основен екран/ dark тема</b><br>
+  <td align="center"><b>Основен екран/ dark тема</b><br>
   <img src="docs/images/sn1.jpg" width="300">
   </td>
-  <td><b>Основен екран/ light тема</b><br>
+  <td align="center"><b>Основен екран/ light тема</b><br>
   <img src="docs/images/sn2.jpg" width="300">
   </td>
   </tr>
   <tr>
-  <td><b>Екран с рецепта/ light тема</b><br>
+  <td align="center"><b>Екран с рецепта/ light тема</b><br>
   <img src="docs/images/sn3.jpg" width="300">
   </td>
-  <td><b>Екран с рецепта/ light тема</b><br>
+  <td align="center"><b>Екран с рецепта/ light тема</b><br>
   <img src="docs/images/sn4.jpg" width="300">
   </td>
   </tr>
