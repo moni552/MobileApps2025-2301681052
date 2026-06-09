@@ -50,24 +50,21 @@ Material 3 тема с поддръжка на light/dark режим.
 <table>
 <tr>
   <td><b>Основен екран/ dark тема</b><br>
-  <img src="docs/images/sn1.jpg" width="300"></td>
-</tr>
+  <img src="docs/images/sn1.jpg" width="300">
+  </td>
+  <td><b>Основен екран/ light тема</b><br>
+  <img src="docs/images/sn2.jpg" width="300">
+  </td>
+  </tr>
+  <tr>
+  <td><b>Екран с рецепта/ light тема</b><br>
+  <img src="docs/images/sn3.jpg" width="300">
+  </td>
+  <td><b>Екран с рецепта/ light тема</b><br>
+  <img src="docs/images/sn4.jpg" width="300">
+  </td>
+  </tr>
 </table>
-### Основен екран / dark тема
-
-![Main Screen](docs/images/sn1.jpg)
-
-### Основен екран / light тема
-
-![Main Screen](docs/images/sn2.jpg)
-
-### Екран с рецепта / light тема
-
-![Details Screen](docs/images/sn3.jpg)
-
-### Екран с рецепта / light тема
-
-![Details Screen](docs/images/sn4.jpg)
 
 ## 8. APK
 
