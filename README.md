@@ -46,6 +46,13 @@ Material 3 тема с поддръжка на light/dark режим.
 Не са необходими - приложението работи без логин.
 
 ## 7. Скриншотове
+
+<table>
+<tr>
+  <td><b>Основен екран/ dark тема</b><br>
+  <img src="docs/images/sn1.jpg" width="300"></td>
+</tr>
+</table>
 ### Основен екран / dark тема
 
 ![Main Screen](docs/images/sn1.jpg)
