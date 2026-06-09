@@ -61,7 +61,8 @@ Material 3 тема с поддръжка на light/dark режим.
 ![Details Screen](docs/images/sn4.jpg)
 
 ##8. APK
-APK файлът се намира в
+
+APK файлът се намира в [apk/apk-release.apk]
 
 ##9. Технологии
 - Kotlin
